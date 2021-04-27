@@ -1,5 +1,5 @@
 [package]
-name = "hashmap-exercises"
+name = "playing-with-rust"
 version = "0.1.0"
 authors = ["Chelo84 <marcelo_lacroix@hotmail.com>"]
 edition = "2018"
